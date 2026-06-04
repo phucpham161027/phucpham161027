@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <div align="right">
-   ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=34D399&style=flat-square&label=Profile+Views)
+   (https://komarev.com/ghpvc/?username=your-github-username&color=34D399&style=flat-square&label=Profile+Views)
 </div>
 
 <p align="center">
