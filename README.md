@@ -65,8 +65,3 @@ Currently focusing on:
 * **Description:** Authored an in-depth technical report on the practical applications of Markov Chains within Natural Language Processing (NLP) and systems engineering simulation scenarios.
 
 ---
-
-## 🎮 Other Technical Interests
-
-* **Sandbox Game Mechanics:** Deeply exploring Named Binary Tag (NBT) structures to customize entities and runtime logic within Minecraft.
-* **Esports Analytics:** Analyzing player metrics and optimizing tactical coordination in FC Online.
