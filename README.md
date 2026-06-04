@@ -1,11 +1,11 @@
 <a id="top"></a>
 
 <div align="right">
-   (https://komarev.com/ghpvc/?username=your-github-username&color=34D399&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=34D399&style=flat-square&label=Profile+Views)
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=220&section=header&text=Phạm%20Triệu%20Tấn%20Phúc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Software%20Developer%20%7C%20Computer%20Science%20Enthusiast&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=220&section=header&text=Pham%20Trieu%20Tan%20Phuc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Software%20Developer%20%7C%20Computer%20Science%20Enthusiast&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
@@ -17,56 +17,56 @@
 </p>
 
 <p align="left">
-🎓 <strong>Sinh viên ngành Công nghệ Thông tin</strong> tại HUIT, TP.HCM <br>
-💡 Đam mê <strong>Phát triển phần mềm, Cấu trúc dữ liệu & Giải thuật, Kiến trúc máy tính</strong> <br>
-🌍 Mục tiêu: Làm việc trong môi trường công nghệ chuyên nghiệp và tối ưu hóa hệ thống phần mềm <br>
-⚡ Sở thích: Lập trình hệ thống • Nghiên cứu Thuật toán • Làm việc nhóm (Group 07) • Tìm hiểu cơ chế Game Sandbox
+🎓 <strong>Information Technology Student</strong> at HUIT, Ho Chi Minh City <br>
+💡 Passionate about <strong>Software Development, Data Structures & Algorithms, and Computer Architecture</strong> <br>
+🌍 Goal: Work in professional tech environments and optimize software systems <br>
+⚡ Interests: Systems Programming • Algorithm Research • Teamwork (Group 07) • Sandbox Game Mechanics
 </p>
 
 ---
 
-## 🚀 Về tôi
+## 🚀 About Me
 
-Tôi là sinh viên ngành Công nghệ Thông tin tại Trường Đại học Công Thương TP.HCM (HUIT). Có nền tảng tư duy tốt về toán rời rạc, đại số tuyến tính và logic học. Tôi tập trung vào việc hiểu sâu bản chất vận hành của mã nguồn, tối ưu hóa thuật toán quản lý dữ liệu và cấu trúc hệ thống máy tính.
+I am an Information Technology student at Ho Chi Minh City University of Industry and Trade (HUIT). Equipped with a solid foundational understanding of discrete mathematics, linear algebra, and formal logic, I focus on grasping the underlying mechanics of source code, optimizing data management algorithms, and analyzing computer systems architecture.
 
-Hiện tại tôi tập trung vào:
-- Phát triển ứng dụng bằng C/C++, Java và Python.
-- Quản lý cấu trúc dữ liệu và thiết kế thuật toán tối ưu.
-- Nghiên cứu kiến trúc máy tính (Bus structure) và lập trình hợp ngữ (Assembly RISC-V/MIPS).
-- Ứng dụng mô hình toán học (Markov Chains) trong kỹ thuật.
+Currently focusing on:
+- Application development using C/C++, Java, and Python.
+- Data structure management and optimal algorithm design.
+- Computer architecture research (Bus structure) and assembly programming (RISC-V/MIPS).
+- Applying mathematical models (Markov Chains) in systems engineering.
 
 ---
 
-## 🧠 Kỹ năng lập trình & Công nghệ
+## 🧠 Skills & Technologies
 
-### Ngôn ngữ lập trình
+### Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-### Công cụ & Môi trường phát triển
+### Tools & Development Environments
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,cs" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
 
-## 💼 Dự án tiêu biểu
+## 💼 Featured Projects
 
-### 🖨️ Hệ thống Quản lý Máy in (Print Management System)
-* **Công nghệ:** C++
-* **Mô tả:** Dự án nhóm phát triển hệ thống điều phối tác vụ in ấn. Triển khai các cấu trúc dữ liệu hàng đợi (queue) để xử lý luồng công việc, quản lý hạn ngạch (quota) của người dùng và ghi nhận nhật ký hệ thống (log files) để tối ưu hiệu suất vận hành thiết bị.
+### 🖨️ Print Management System
+* **Tech Stack:** C++
+* **Description:** A group project focused on developing a print job coordination system. Implemented queue data structures to handle systematic workflows, manage user quotas, and maintain detailed log files to optimize hardware device performance.
 
-### 🚌 Nghiên cứu cấu trúc Bus trong Kiến trúc máy tính (Đề tài 15)
-* **Vai trò:** Điều phối tiến độ và phân chia công việc nhóm (Group 07).
-* **Nội dung:** Khảo sát, phân tích cách thức truyền tải dữ liệu giữa các thành phần phần cứng, cơ chế kiểm soát dữ liệu trên đường truyền và tối ưu hóa băng thông luồng hệ thống.
+### 🚌 Computer Architecture - Bus Structure Research (Topic 15)
+* **Role:** Project Coordinator & Task Distributor (Group 07)
+* **Description:** Investigated and analyzed data transmission methods between hardware components, bus arbitration mechanics, and system bandwidth optimization.
 
-### 📊 Nghiên cứu ứng dụng Chuỗi Markov (Markov Chains)
-* **Nội dung:** Viết báo cáo chuyên sâu về ứng dụng thực tế của Chuỗi Markov trong xử lý ngôn ngữ tự nhiên (NLP) và các bài toán mô phỏng kỹ thuật hệ thống.
+### 📊 Markov Chains Application Research
+* **Description:** Authored an in-depth technical report on the practical applications of Markov Chains within Natural Language Processing (NLP) and systems engineering simulation scenarios.
 
 ---
 
-## 🎮 Sở thích công nghệ khác
+## 🎮 Other Technical Interests
 
-* **Cơ chế Game Sandbox:** Nghiên cứu sâu cấu trúc thẻ dữ liệu NBT (Named Binary Tag) để tùy biến thực thể và logic vận hành trong môi trường Minecraft.
-* **Chiến thuật thể thao điện tử:** Phân tích dữ liệu chỉ số và tối ưu hóa kỹ năng điều phối trong FC Online.
+* **Sandbox Game Mechanics:** Deeply exploring Named Binary Tag (NBT) structures to customize entities and runtime logic within Minecraft.
+* **Esports Analytics:** Analyzing player metrics and optimizing tactical coordination in FC Online.
