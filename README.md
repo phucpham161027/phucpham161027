@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <div align="right">
-  ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=34D399&style=flat-square&label=Profile+Views)
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=34D399&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <p align="center">
@@ -63,5 +63,3 @@ Currently focusing on:
 
 ### 📊 Markov Chains Application Research
 * **Description:** Authored an in-depth technical report on the practical applications of Markov Chains within Natural Language Processing (NLP) and systems engineering simulation scenarios.
-
----
